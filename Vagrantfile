@@ -8,7 +8,7 @@
 
 # IP Address for the host only network, change it to anything you like
 # but please keep it within the IPv4 private network range
-ip_address = "172.22.22.22"
+ip_address = "192.168.1.99"
 
 # The project name is base for directories, hostname and alike
 project_name = "projectname"
